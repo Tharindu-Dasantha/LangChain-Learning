@@ -1,2 +1,3 @@
 # LangChain-Learning
  
+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
